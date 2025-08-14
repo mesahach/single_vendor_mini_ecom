@@ -1,9 +1,9 @@
 # 🛒 Modern E-Commerce Platform  
 
-![E-commerce Banner](https://secondecom.mtechsciverse.com/)  
+![E-commerce Banner](https://placehold.in/1200x300.png?text=E-commerce+Platform)  
 
 ## 📌 Overview  
-A **full-featured e-commerce platform** built for businesses that want a **high-performing, scalable, and easy-to-manage online store**.  
+A **full-featured e-commerce platform** built for businesses that want a **high-performing, scalable, and easy-to-manage online store**. Click here to view the live demo: https://secondecom.mtechsciverse.com/  
 
 **Key Highlights:**  
 - Built with **Vue.js** frontend for speed & interactivity  
@@ -40,7 +40,7 @@ A **full-featured e-commerce platform** built for businesses that want a **high-
 ## 🛠 Tech Stack & Benefits  
 
 ### Frontend: Vue.js  
-![Vue.js Logo](https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg)  
+![Vue.js Logo](https://upload.wikimedia.org/wikipedia/commons/f/f1/Vue.png)  
 - **Reactive & Fast** – Dynamic updates without page reloads  
 - **Component-Based** – Easier maintenance & scalability  
 - **SEO Friendly** – Great for search engine visibility  
@@ -49,7 +49,7 @@ A **full-featured e-commerce platform** built for businesses that want a **high-
 ---
 
 ### Backend: PHP REST API  
-![PHP Logo](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg)  
+![PHP Logo](https://upload.wikimedia.org/wikipedia/commons/6/61/Php.png)  
 - **Proven Technology** – Powers millions of web applications  
 - **Flexible** – Integrates easily with payment gateways & APIs  
 - **Cost-Effective** – Open-source & widely supported  
@@ -58,7 +58,7 @@ A **full-featured e-commerce platform** built for businesses that want a **high-
 ---
 
 ### Database: MySQL  
-![MySQL Logo](https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg)  
+![MySQL Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/MySQL_textlogo.svg/640px-MySQL_textlogo.svg.png)  
 - **Reliable & Scalable** – Handles high traffic & data loads  
 - **Data Integrity** – ACID-compliant for accurate transactions  
 - **Performance Optimized** – Fast queries with indexing  
